@@ -6,20 +6,17 @@
 
       one of the major understanding in today's session is when ever we face a problem first we need to understand the problem and we have to solve the problem by not evoiding the situation. We need to identify the constarints that will help us to sole the problem after we need to list all the possibilty operations the steps which we need to follow to solve the problem and arrange the operations 
   
-     * constraints: Is nothing but chosse the possibility ways to solve the
- problem without avoiding the problem
+     * constraints: Is nothing but chosse the possibility ways to solve the problem without avoiding the problem.
 
-     * List all possibility Operations: we need to list all the possibility opertions to solve the problem it will help us to get an idea how to solve the
- problems
+     * List all possibility Operations: we need to list all the possibility opertions to solve the problem it will help us to get an idea how to solve the problems
 
      * Arrange the opertaions to form a solution: By listing all the possibility operation in this, we will arrange the all possibility that we listed and we need to implement those step by step
 
-These are the steps make me understand to understand about problem solving.
+These are the few steps that makes me to understand about problem solving.
  
 ## Tips:
 
-There are few tips that i get when we were solving the examples that makes me
- more understanding about on problem solving
+There are few tips that i get when we were solving the examples that makes me3\ kj ][p  more understanding about on problem solving
 
 * Those are:
 
